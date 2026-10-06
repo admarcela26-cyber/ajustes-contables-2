@@ -1,0 +1,6 @@
+{
+  "name": "Simulador SENA - Hoja de Trabajo y Ajustes Contables",
+  "description": "Herramienta pedagógica interactiva para aprendices del Tecnólogo en Gestión Contable y de Información Financiera (SENA) para practicar ajustes contables y hoja de trabajo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
